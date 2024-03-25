@@ -1,0 +1,25 @@
+ul {
+    background-color: aquamarine;
+}
+
+img {
+    width: 50%;
+    height: auto;
+}
+
+h1 {
+    font-weight: 700;
+}
+
+h3 {
+    font-weight: 400;
+}
+
+* {
+    font-family: 'Times New Roman', Times, serif;
+    background-color: grey;
+}
+
+ol {
+    background-color: rebeccapurple
+}
